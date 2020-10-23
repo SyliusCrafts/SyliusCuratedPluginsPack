@@ -1,2 +1,2 @@
 # SyliusCuratedPluginsPack
-Sylius version containing the Plugins listed in SyliusCrafts/PluginsCuration
+Sylius version containing Plugins listed in [SyliusCrafts/PluginsCuration](https://github.com/SyliusCrafts/PluginsCuration)
